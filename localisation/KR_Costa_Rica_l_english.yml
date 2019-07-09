@@ -23,8 +23,8 @@ COS_national_populist_party_long:0 "Légion del Caribe"
 COS_national_populist_party:0 "LC"
 
 ### Tooltips ###
-USA_DENIED:0 "§YUSA§! has refused our request"
-GER_DENIED:0 "§YGermany§! has refused our request"
+USA_DENIED:0 "§YUSA§! isteğimizi geri çevirdi"
+GER_DENIED:0 "§YGermany§! isteğimizi geri çevirdi"
 UFC_Labour_Accord:0 "The §YUFC§! has signed the §YLabour Accord§!"
 ZKG_Labour_Accord:0 "The §YZKG§! has signed the §YLabour Accord§!"
 cos_black_monday_tt:0 "§YZKG Bankruptcy§! hasn't been solved yet"
@@ -535,16 +535,16 @@ COS_Aircraft_Contracts_desc:0 "Through a system of lend lease and for the sake o
 ARMY_COS_FERNANDO_FIGULS_QUIROS_DESC:0 ""
 
 ### Events ###
-cos.1.t:0 "Costa Rica: A Central American Success Story"
+cos.1.t:0 "Kosta Rika: Bir Orta Amerika başarı hikayesi"
 cos.1.d:0 "Tucked away deep in the Central American jungles, our small but proud nation has flourished for many decades enjoying literacy rates higher than some European nations and a slow but steadily growing economy based on the banana and especially coffee trade.\n\nEnsured by a strict adherence of all parties to the constitution, there has been no military intervention or political coup in the nation since the failed dictatorship of Ticino in 1917 who was deposed mere months later under pressure from the people, refusing to endure a dictator in their republic. Ever since the nation has been controlled by a varied albeit egalitarian caste of politicians who have enjoyed the fruits of the growing German economy and the close ties between our two nations.\n\nUnder the wing of the PRN, president Ricardo Jiminez is able to look back on a successful term in which he dealt with both the economic depression caused by the American recession and the rising voices of socialist movements who enthused by the Atlantic Workers Congress have finally risen up from their slumber and demanded better representation. Although they somewhat succeeded in their aims and have forced the government to draft a labour accord, the law is far from passed yet and under the rising star of Manual Mora Valverde trouble between companies and workers is far from over.\n\nNevertheless, the nation flourishes as the fruits of our relations with Mitteleuropa are flowing in in the form of cultural exchange programs, scientific assistance and a strong bond between universities such as the KU Leuven in Flanders-Wallonia and the Costa Rican upper class."
-cos.1.a:0 "Another sunny day in Costa Rica."
+cos.1.a:0 "Kosta Rika'da başka bir güneşli gün."
 
 cos.2.t:0 "Nomination of the Republican Candidate"
 cos.2.d:0 "Whilst the supremacy of the PRN is unquestionable in the upcoming elections, the party is divided on who to push forward to serve as their Presidential candidate.\n\nLeón Cortés Castro has the support of the conservative coffee elite and has proven during the tenure of Jimenez to be a worthy successor to his legacy. Other members however have remarked that his aggressive anti-socialist stance and strict attitude could lead to further escalation amidst the socialist sphere and as such provide a feeding bottom for Valverdes syndicalist party.\n\nAs a compromise between the two extremes, the Church persuaded by the encyclical Rerum Novarum, has pushed forward Rafael Ángel Calderón Guardia. His political career is not very noteworthy and most people only know him as the 'Doctor' due to his medical profession. With both sides hoping to use him as a sock puppet whilst ruling in his stead, support for his candidacy is increasing by the day."
 cos.2.a:0 "Cortés will lead the nation."
-cos.2.b:0 "Let's give this 'Doctor' a chance."
+cos.2.b:0 "Bu 'Doktor'a bir şans verelim"
 
-cos.3.t:0 "Manuel Mora Valverde requests approval for his candidacy"
+cos.3.t:0 "Manuel Mora Valverde adaylığı için onay istiyor"
 cos.3.d:0 "As the leader of the Syndicalist Party, Manuel Mora Valverde is dead-set on representing his party in the upcoming elections. Due to a special clause in the Constitution however forbidding anyone to participate under the age of 30, his bid would automatically be canceled.\n\nHolding a fiery rhetoric in Congress in support of lowering the age requirement, the young but charismatic politician, has attempted to persuade the sitting government to reconsider this clause and to allow him and his party to run for office."
 cos.3.a:0 "The Constitution is sacred!"
 cos.3.b:0 "It was a dumb rule anyway..."
