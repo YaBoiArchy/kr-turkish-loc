@@ -608,10 +608,10 @@ els.218.a:0 "Cheers!"
 ### Focuses ###
 
 ## Rightist tree ##
-ELS_37_revolution:0 "The 37 Revolution"
-ELS_37_revolution_desc:0 "Just like in 1932, the fires of revolution have once again reached El Salvador. As the west rallies once again under Farabundo Martí, the reactionary forces in the government have the duty to stop them dead in his tracks, but only time will prove who will gain the upper hand and manage to take over El Salvador."
-ELS_vanguard_stands:0 "The Vanguard Stands"
-ELS_vanguard_stands_desc:0 "Once again, the syndicalist rebels in the south have been crushed, and a new age of stability shall be restored. As the final remnants of the enemy forces are swept by our army, we still need to know who shall lead the country into its new age of stability..."
+ELS_37_revolution:0 "37 Devrimi"
+ELS_37_revolution_desc:0 "1932'deki gibi, devrimin ateşi El Salvador'a ulaştı. Batı kesimleri yeniden Farabundo Marti altında toplanıyorken, yönetimdeki irticacı güçlerin onu durdurma vazifesine sahipler. Ancak sadece zaman kimin galip gelip El Salvador'u ele geçireceğini gösterecek."
+ELS_vanguard_stands:0 "Kalkan Direndi"
+ELS_vanguard_stands_desc:0 "Yeniden güneydeki sendikalist asiler yok edildi, ve yeniden istikrar kurulacak. Asi güçlerin son geriye kalanlarını ordumuz ezip geçerken, ülkeyi bu yeni çağda kimin yöneteceğini bilmemiz gerekiyor."
 ELS_new_guard:0 "New Guard"
 ELS_new_guard_desc:0 "At last, the tyrant Martínez has been deposed, and in his stead the charismatic Osmín Aguirre y Salinas has stepped in as the new president. While Salinas is still focus in keeping stability and order in El Salvador, he is still a reformist who wants to bring a better El Salvador for his people."
 ELS_small_liberties:0 "Limited Liberties"
