@@ -1321,25 +1321,25 @@ gerdom.60.a:0 "Fevkalade!"
 gerdom.61.t:0 "Genel Grevde Sendikalist Müdehalesi"
 gerdom.61.d:0 "Ren Bölgesindeki grevin bitmesine rağmen resmi bir soruşturma bazı asi işçilerin dışarıdan destek aldığını ortaya çıkardı. Büyük olasılıkla Fransız olan ajitatörler halka silah ve sendikalist propaganda dağıttı. Bu isyankarlığa ne yapacağız?"
 gerdom.61.a:0 "Buna tahammül edemeyiz!"
-gerdom.61.b:0 "Senidkalist müdehalesi konusunda kesin kanıta ihtiyacımız var."
+gerdom.61.b:0 "Sendikalist müdehalesi konusunda kesin kanıta ihtiyacımız var."
 
 ### Death Events ###
 
-gerdom.62.t:0 "Johann von Bernstorff Dies"
-gerdom.62.d:0 "Today it was announced that the former ambassador to the United States and the Ottoman Empire and former State Secretary for the Interior, Johann von Bernstroff, has died."
-gerdom.62.a:0 "Ruhe in Frieden."
+gerdom.62.t:0 "Johann von Bernstorff Öldü"
+gerdom.62.d:0 "Bugün eski Osmanlı İmparatorluğu ve ABD elçisi ve içişleri bakanı olan Johann von Bernstorff'un öldüğü açıklandı."
+gerdom.62.a:0 "Huzur içinde uyusun."
 
-gerdom.63.t:0 "Wilhelm Groener Dies"
-gerdom.63.d:0 "One of the heroes of the Weltkrieg and the victor over the Bolsheviks during the Russian Intervention, Feldmarschall Wilhelm Groener has passed away today. All Germany is in mourning for one of the great generals of the post-Weltkrieg Golden Age."
+gerdom.63.t:0 "Wilhelm Groener Öldü"
+gerdom.63.d:0 "Weltkrieg'in kahramanlarından ve Rusya Müdehalesinin komutanlarından olan Feldmareşal Groener bugün hayatını kaybetti. Almanya'nın tamamı Weltkrieg sonrası Altın Çağın generali için yas tutuyor."
 
-gerdom.64.t:0 "Ludwig von Reuter Dies"
-gerdom.64.d:0 "A hero of the Weltkrieg and commander of the Kaiserliche Marine, Ludwig von Reuter has died today. Famed for his actions during the battle of the Skagerrak and decisive actions against the British blockade, the German nation is in mourning."
+gerdom.64.t:0 "Ludwig von Reuter Öldü"
+gerdom.64.d:0 "Weltkrieg kahramanı ve donanma komutanı Ludwig von Reuter bugün hayatını kaybetti. Skagerrak muharebesindeki eylemleri nedeniyle ünlü olan amiral için yas tutuluyor."
 
-gerdom.65.t:0 "Wilhelm Souchon Dies"
-gerdom.65.d:0 "Admiral Wilhelm Souchon, a hero of the Weltkrieg and a Großadmiral in both our fleet and the Ottoman fleet, has passed away today. Souchon initially commanded the small Mediterranean Fleet before daringly handing his forces to the Ottomans and precipitating their entry into the war as a Central Power."
+gerdom.65.t:0 "Wilhelm Souchon Öldü"
+gerdom.65.d:0 "Hem bizim hem Osmanlı donanmasında Başamiral olan savaş kahramanı Wilhelm Souchon bugün hayatını kaybetti. Souchon önce küçük Akdeniz filosunu kontrol edip sonra kuvvetlerini Osmanlılara teslim etti."
 
-gerdom.66.t:0 "Georg Bruchmüller Dies"
-gerdom.66.d:0 "Feldmarschall Bruchmüller a hero of the Weltkrieg and key developer of modern artillery tactics, has passed away today. Known to all as 'Breakthrough Müller' for his decisive actions during campaigns on both the Western and Eastern fronts, he will surely be missed by all Germans."
+gerdom.66.t:0 "Georg Bruchmüller Öldü"
+gerdom.66.d:0 "Modern topçu taktiklerinin öncüsü olan Feldmareşal Bruchmüller bugün hayatını kaybetti. Batı ve Doğu cephelerindeki taktikleri nedeniyle "Yarma Bruchmüller" olarak bilinen mareşali tüm Almanlar özleyecektir."
 
 ### The Kaiserbund ###
 
@@ -1404,8 +1404,8 @@ gerdom.83.t:0 "Yemen Accepted"
 gerdom.83.d:0 "The Mutawakkilite Kingdom of Yemen has agreed to our offer and they have become our protectorate."
 gerdom.83.a:0 "Great!"
 
-gerdom.84.t:0 "Coronation of Wilhelm III"
-gerdom.84.d:0 "With the passing of the great Weltkriegskaiser Wilhelm II, Wilhelm III has given a grand speech on his coronation day to guide all of Germany towards prosperity and to safeguard our interests across the globe!"
+gerdom.84.t:0 "III. Wilhelm'in Taç Takması"
+gerdom.84.d:0 "Weltkrieg Kayzeri II. Wilhelm'in ölümüyle beraber III. Wilhelm taç takma töreninde Almanya'nın uluslararası onurunu koruyacağını söylediği büyük bir demeç verdi!"
 gerdom.84.a:0 "Heil dir im Siegerkranz!"
 
 gerdom.85.t:0 "Germany Bans French Organisations!"
@@ -1434,10 +1434,10 @@ gerdom.91.t:0 "German Mission Arrives In Don-Kuban"
 gerdom.91.d:0 "The German Empire decided to send an official military mission to our homeland in order to help us improve our obsolete armed forces. Such missions are well regarded for their impact on the militaries of nations like Ukraine and Venezuela, and we are fortunate to have them."
 gerdom.91.a:0 "We will show them Cossack hospitality!"
 
-gerdom.92.t:0 "Lettow-Vorbeck and the Flame of German Resistance"
-gerdom.92.d:0 "This is the darkest hour of the German Empire. Defeated by the planes, tanks and tactics of a brutal foe, the imperial government has evacuated Berlin and is currently converging, shell-shocked and battered, on Daressalam. However, the army is not Germany itself, and under the African skies our loyal colonies remain committed to the war effort. All the same, the Reich's government as it stands is facing loathing for presiding over the greatest military catastrophe in German history, and many senior army officers are demanding the appointment of a new emergency chancellor. Many of them are clamouring for Paul von Lettow-Vorbeck to be elevated to this position, given his successes in Afrika during the Weltkrieg and the loyalty and affection that he commands among the askaris we must now rely on."
-gerdom.92.a:0 "Yes! Appoint von Lettow-Vorbeck! Heia Safari!"
-gerdom.92.b:0 "No! This would be the last nail in the coffin of our democracy!"
+gerdom.92.t:0 "Lettow-Vorbeck ve Alman Direnişinin Alevi"
+gerdom.92.d:0 "Bu Alman İmparatorluğunun en karanlık saati. Acımasız düşmanın tankları, uçakları ve taktikleriyle yenilen hükümet şok halinde Berlin'den Daressalam'a kaçıyor. Ancak ordu sadece Almanya'da değil ve Afrika güneşi altında kolonilerimiz bize sadık kaldı. Bunun yanında hükümete Alman tarihinin en büyük askeri faciasını yaşattığı için nefret duyuluyor ve çoğu subay acilen yeni bir şansölyenin atanması gerektiğini söylüyor. Çoğu subayın tercihi şimdi bel bağladığımız Askarilerin ona duyduğu saygı ve Afrika'daki deneyimleri dolayısıyla Paul von Lettow-Vorbeck."
+gerdom.92.a:0 "Evet! Lettow-Vorbeck'i ata! Heia Safari!"
+gerdom.92.b:0 "Hayır! Bu demokrasimizin tabutundaki son çivi olur!"
 
 gerdom.93.t:0 "Lettow-Vorbeck Proposes an 'Afrikakorps'"
 gerdom.93.d:0 "Chancellor von Lettow-Vorbeck has stood before the emergency government and argued that the German state must raise additional units of native schutztruppen, also known as askaris. These doughty soldiers have served the Reich faithfully ever since the chancellor outwitted the Entente in the jungles of Ostafrika during the Weltkrieg. Controversially, von Lettow-Vorbeck has also proposed that we grant the native kings, princes and vassals that rule Afrika in our stead complete independence once we retake our Vaterland. Such a reward would incentivise our native population and leaders and invigorate them to assist us in getting to Berlin. This is a desperate proposal, but the Reich is going through desperate times."
