@@ -461,8 +461,8 @@ GER_doctrine_mobile_desc:0 "Askeri yüksek komutamız birçok konu üzerine böl
 GER_doctrine_mobile_2:0 "Yeni Bir Doktrin"
 GER_doctrine_mobile_2_desc:0 "Bazı radikal yenilikçiler - Heinz von Guderian ve Erich von Manstein, diğerleriyle birlikte - yüksek askeri komutamızda bütünüyle yeni doktrine odaklanılması için baskı uyguluyorlar. Onlar zırhlı mızrak uçlarının hızlı manevralarıyla sert cepheleri yarmayı istiyorlar."
 
-GER_mil_expansion:0 "Military Expansion"
-GER_mil_expansion_desc:0 "The Chief of General Staff has been embroiled in heated debate as to which military doctrine should be adopted. We should establish an impartial committee of military officers to oversee the adoption of new doctrine."
+GER_mil_expansion:0 "Orduyu Genişletme"
+GER_mil_expansion_desc:0 "Genelkurmay Başkanı Alman ordusunun hangi taktikleri veya doktrinleri kullanması gerektiği hususundaki tartışmalara sürekli olarak katıldı. Yeni doktrinin benimsenmesini yönetmek için, subaylardan oluşan tarafsız bir komite kurmalıyız."
 
 #GER_doctrine_great_war:0 "The Modern Art of War" already defined above
 #GER_doctrine_great_war_desc:0 "There is one book that every man who wants to become an officer in the army of the Reich must read - Clausewitz's 'On War'. If we put our best military theorists on the subject, they can adapt the still applicable principles from the centuries-old book to the requirements of modern warfare." already defined above
@@ -508,11 +508,11 @@ GER_global3_desc:0 "Singapur en doğu limanımız ancak Pasifik çok geniş bir 
 GER_global4:0 "Strike at the Panamá Canal"
 GER_global4_desc:0 "The Panamá Canal is a critical avenue for both world shipping and the projection of naval power in the Western Hemisphere. We must secure it for our own imperial purposes."
 
-GER_north_sea1:0 "Expand Wilhelmshaven"
-GER_north_sea1_desc:0 "We require an expanded port for basing for both our submarines and our larger fleets. Investing into the crucial Kaiserliche Marine base at Wilhelmshaven is a good start for accomplishing this."
+GER_north_sea1:0 "Wilhemshaven'ı Genişletme"
+GER_north_sea1_desc:0 "Denizaltılarımız ve daha büyük donanmamızı bulundurmak için daha geniş bir limanlara ihtiyacımız var. Wilhemshaven'daki Kaiserliche Marine üssüne yatırım yapmak bunun için iyi bir başlangıç olacaktır."
 
-GER_north_sea2:0 "Flanders-Wallonia Naval Bases"
-GER_north_sea2_desc:0 "We require more ports in the North Sea to ensure we have a chokehold over our enemies' trade and to discourage a repeat of the Weltkrieg blockade. Expanding our naval bases within Flanders-Wallonia such as in Antwerpen will help this goal."
+GER_north_sea2:0 "Flandr-Valonya Deniz Üsleri "
+GER_north_sea2_desc:0 "Düşmanlarımızın ticaretinde mutlak güç kurabilmek ve Weltkrieg ablukasınının yeniden olmasını engellemek için Kuzey Denizi'nde daha çok üsse ihtiyacımız var. Flandr-Valonya'daki deniz üslerini genişletmek bu amacımıza ulaşmakta yardımcı olacak."
 
 GER_north_sea3:0 "Secure the Skagerrak"
 GER_north_sea3_desc:0 "The Skagerrak is the vital strait between Denmark, Norway and Sweden. We must secure it to prevent our fleets becoming locked within the Baltic Sea in the event of the Kiel Canal being blocked."
@@ -717,6 +717,7 @@ GER_industry_research_3:0 "Construction II"
 GER_industry_research_3_desc:0 "Placeholder"
 
 GER_economy:0 "State of the Economy"
+
 GER_economy_desc:0 "It's good, really. The industry is humming along, the grain is coming in from the eastern member states of the Reichspakt, many citizens have work. It's looking up for the Kaiserreich, and it seems like nothing will be able to stop the golden age of the late Reichskanzler Tirpitz..."
 
 GER_research_expansion:0 "Extra Research Funding"
