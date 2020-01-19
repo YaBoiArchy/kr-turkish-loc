@@ -1,7 +1,0 @@
-TRM_japanese_influence = {
-	icon = GFX_decision_revolt
-
-	allowed = {
-		original_tag = TRM
-	}
-}
